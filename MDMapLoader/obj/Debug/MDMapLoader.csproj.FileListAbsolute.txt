@@ -1,0 +1,15 @@
+E:\TestProjects\MDMapLoader\MDMapLoader\bin\Debug\MDMapLoader.exe.config
+E:\TestProjects\MDMapLoader\MDMapLoader\bin\Debug\MDMapLoader.exe
+E:\TestProjects\MDMapLoader\MDMapLoader\bin\Debug\MDMapLoader.pdb
+E:\TestProjects\MDMapLoader\MDMapLoader\obj\Debug\MDMapLoader.csprojResolveAssemblyReference.cache
+E:\TestProjects\MDMapLoader\MDMapLoader\obj\Debug\MDMapLoader.Properties.Resources.resources
+E:\TestProjects\MDMapLoader\MDMapLoader\obj\Debug\MDMapLoader.csproj.GenerateResource.Cache
+E:\TestProjects\MDMapLoader\MDMapLoader\obj\Debug\MDMapLoader.exe
+E:\TestProjects\MDMapLoader\MDMapLoader\obj\Debug\MDMapLoader.pdb
+E:\TestProjects\MDMapLoader\MDMapLoader\bin\Debug\Newtonsoft.Json.dll
+E:\TestProjects\MDMapLoader\MDMapLoader\bin\Debug\Newtonsoft.Json.xml
+E:\TestProjects\MDMapLoader\MDMapLoader\bin\Debug\MDMapLoader.exe.manifest
+E:\TestProjects\MDMapLoader\MDMapLoader\bin\Debug\MDMapLoader.application
+E:\TestProjects\MDMapLoader\MDMapLoader\obj\Debug\MDMapLoader.exe.manifest
+E:\TestProjects\MDMapLoader\MDMapLoader\obj\Debug\MDMapLoader.application
+E:\TestProjects\MDMapLoader\MDMapLoader\obj\Debug\MDMapLoader.MDMapLoader.resources
